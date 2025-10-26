@@ -5,6 +5,7 @@
     "react": "^19.2.0",
     "react-native": "^0.82.1",
     "react-native-safe-area-context": "^5.6.1",
+    "react-native-web": "^0.21.0",
     "sonner-native": "^0.21.1"
   },
   "devDependencies": {
